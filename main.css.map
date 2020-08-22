@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/falcon/Desktop/GitBlaze/udyamee-hugo/udyamee",
+	"sourceRoot": "/home/falcon/Desktop/GitBlaze/udyamee-hugo",
 	"sources": [
 		"themes/hello-friend/assets/scss/main.scss",
 		"themes/hello-friend/assets/scss/_normalize.scss",

@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/about/</loc>
+    <loc>https://udyamee.netlify.app/about/</loc>
     <lastmod>2020-08-20T22:17:34+05:30</lastmod>
   </url>
   
   <url>
-    <loc>localhost/about/</loc>
+    <loc>https://udyamee.netlify.app/about/</loc>
     <lastmod>2020-08-20T21:56:56+05:30</lastmod>
   </url>
   
   <url>
-    <loc>localhost/about/me/</loc>
+    <loc>https://udyamee.netlify.app/about/me/</loc>
     <lastmod>2020-08-20T21:56:56+05:30</lastmod>
   </url>
   
   <url>
-    <loc>localhost/</loc>
+    <loc>https://udyamee.netlify.app/</loc>
     <lastmod>2020-08-20T21:56:56+05:30</lastmod>
   </url>
   
   <url>
-    <loc>localhost/blog/</loc>
+    <loc>https://udyamee.netlify.app/blog/</loc>
   </url>
   
   <url>
-    <loc>localhost/series/</loc>
+    <loc>https://udyamee.netlify.app/series/</loc>
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>https://udyamee.netlify.app/tags/</loc>
   </url>
   
 </urlset>
