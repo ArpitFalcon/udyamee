@@ -9,3 +9,5 @@ How to apply t-SNE to your high - dimensional dataset and plot the graphs to ana
 
 #### 2. [A Mind for Numbers](https://udyamee.netlify.app/posts/a-mind-for-numbers-the-key-insights/)
 The key insights from the famous book, [A mind for numbers](https://barbaraoakley.com/books/a-mind-for-numbers/) which talks about how one can learn maths and science in an efficient way. 
+
+#### 3. [Create your own shortcuts in 
