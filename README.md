@@ -14,6 +14,8 @@ View the blog here - [Udyamee](https://udyamee.netlify.app/)
 | ------------------------------------------------------------------ | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | `Beginner’s Guide to Apply t-SNE in your high dimensional dataset` | `machinelearning` `feature-extraction` | [Read Here](https://udyamee.netlify.app/posts/beginner-s-guide-to-apply-t-sne-in-your-high-dimensional-dataset./) | How to apply t-SNE to your high - dimensional dataset and plot the graphs to analyze your data. |
 |                                                                    |                                        |                                                                                                                   |
+| `The six core patters of recursion` | `recursion` `algorithms` `programming` | [Read Here](https://udyamee.netlify.app/posts/the-6-core-patterns-of-recursion/) | Apply these six patters to find any recursive solution. |
+|                                                                    |                                        |                                                                                                                   |
 
 ### Tech-Productivity -
 
