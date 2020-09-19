@@ -3,6 +3,7 @@
 उद्यमी - A technology and productivity blog of everything that I am learning. ❄️
 
 View the blog here - [Udyamee](https://udyamee.netlify.app/)
+Medium Account - [Arpitfalcon](https://medium.com/@arpitfalcon1)
 
 ---
 
